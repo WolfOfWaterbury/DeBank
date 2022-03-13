@@ -1,0 +1,14 @@
+{
+  "name": "debankapi",
+  "version": "0.0.1",
+  "description": "Debank api testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Wolf Of Waterbury",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^12.0.1"
+  }
+}
